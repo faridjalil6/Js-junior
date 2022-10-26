@@ -1,10 +1,10 @@
-dineroCofla = prompt("¿cuanto dinero tienes Cofla?");  
-dineroRoberto = prompt("¿cuanto dinero tienes Roberto?");
-dineroPedro = prompt("¿cuanto dinero tienes Pedro?");
+let dineroCofla = prompt("¿cuanto dinero tienes Cofla?");  
+let dineroRoberto = prompt("¿cuanto dinero tienes Roberto?");
+let dineroPedro = prompt("¿cuanto dinero tienes Pedro?");
 
-dineroCofla = parseInt(dineroCofla);
-dineroRoberto = parseInt(dineroRoberto);
-dineroPedro = parseInt(dineroPedro);
+let dineroCofla = parseInt(dineroCofla);
+let dineroRoberto = parseInt(dineroRoberto);
+let dineroPedro = parseInt(dineroPedro);
 
 if (dineroCofla >= 0.6 && dineroCofla < 1) {
     alert("Cofla: comprate el helado de agua");
