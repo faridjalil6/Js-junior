@@ -33,7 +33,6 @@ do{
 while (numero <= 6)
 
 
-
 let numero1 = 0;
 
 while(numero1 < 100) {
